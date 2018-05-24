@@ -1,7 +1,7 @@
 微信小程序 - 自定义组件
 =
 
-[![npm version]
+
 
 ## 预览
 
@@ -16,32 +16,30 @@
 
 ## 插件及文档
 
-* [ActionSheet - 上拉菜单](https://github.com/skyvow/wux/blob/master/docs/components/actionsheet.md)
-* [Backdrop - 背景幕](https://github.com/skyvow/wux/blob/master/docs/components/backdrop.md)
-* [Barcode - 条形码](https://github.com/skyvow/wux/blob/master/docs/components/barcode.md)
-* [Button - 浮动按钮](https://github.com/skyvow/wux/blob/master/docs/components/button.md)
-* [Calendar - 日历](https://github.com/skyvow/wux/blob/master/docs/components/calendar.md)
-* [CountDown - 倒计时](https://github.com/skyvow/wux/blob/master/docs/components/countdown.md)
-* [CountUp - 计数器](https://github.com/skyvow/wux/blob/master/docs/components/countup.md)
-* [Dialog - 对话框](https://github.com/skyvow/wux/blob/master/docs/components/dialog.md)
-* [FilterBar - 筛选栏](https://github.com/skyvow/wux/blob/master/docs/components/filterbar.md)
-* [Gallery - 画廊](https://github.com/skyvow/wux/blob/master/docs/components/gallery.md)
-* [KeyBoard - 键盘](https://github.com/skyvow/wux/blob/master/docs/components/keyboard.md)
-* [Loading - 指示器](https://github.com/skyvow/wux/blob/master/docs/components/loading.md)
-* [Notification - 通知](https://github.com/skyvow/wux/blob/master/docs/components/notification.md)
-* [Picker - 选择器](https://github.com/skyvow/wux/blob/master/docs/components/picker.md)
-* [Prompt - 提示信息](https://github.com/skyvow/wux/blob/master/docs/components/prompt.md)
-* [Qrcode - 二维码](https://github.com/skyvow/wux/blob/master/docs/components/qrcode.md)
-* [Rater - 评分组件](https://github.com/skyvow/wux/blob/master/docs/components/rater.md)
-* [Refresher - 下拉刷新](https://github.com/skyvow/wux/blob/master/docs/components/refresher.md)
-* [Toast - 提示框](https://github.com/skyvow/wux/blob/master/docs/components/toast.md)
-* [Toptips - 顶部提示](https://github.com/skyvow/wux/blob/master/docs/components/toptips.md)
-* [Vcode - 验证码](https://github.com/skyvow/wux/blob/master/docs/components/vcode.md)
-* [Xnumber - 数字输入框](https://github.com/skyvow/wux/blob/master/docs/components/xnumber.md)
+* [ActionSheet - 上拉菜单](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/actionsheet.md)
+* [Backdrop - 背景幕](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/backdrop.md)
+* [Barcode - 条形码](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/barcode.md)
+* [Button - 浮动按钮](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/button.md)
+* [Calendar - 日历](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/calendar.md)
+* [CountDown - 倒计时](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/countdown.md)
+* [CountUp - 计数器](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/countup.md)
+* [Dialog - 对话框](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/dialog.md)
+* [FilterBar - 筛选栏](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/filterbar.md)
+* [Gallery - 画廊](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/gallery.md)
+* [KeyBoard - 键盘](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/keyboard.md)
+* [Loading - 指示器](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/loading.md)
+* [Notification - 通知](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/notification.md)
+* [Picker - 选择器](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/picker.md)
+* [Prompt - 提示信息](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/prompt.md)
+* [Qrcode - 二维码](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/qrcode.md)
+* [Rater - 评分组件](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/rater.md)
+* [Refresher - 下拉刷新](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/refresher.md)
+* [Toast - 提示框](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/toast.md)
+* [Toptips - 顶部提示](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/toptips.md)
+* [Vcode - 验证码](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/vcode.md)
+* [Xnumber - 数字输入框](https://github.com/tomatojacky/wux-weixin/blob/master/docs/components/xnumber.md)
 
-## 更新日志
 
-* [CHANGELOG](CHANGELOG.md)
 
 ## 项目截图
 
