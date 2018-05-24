@@ -1,7 +1,7 @@
 微信小程序 - 自定义组件
 =
 
-[![npm version](https://img.shields.io/npm/v/wux.svg)](https://www.npmjs.org/package/wux)
+[![npm version]
 
 ## 预览
 
